@@ -1,5 +1,6 @@
 # schedule-risk-analysis
-SRA Python Code (previous work project)
+SRA Python Code (previous work project, mid-2021)
+
 I wrote the sra.py code, a path-organizing linker.py code, and a visualization supporting_Dist.py code for a SRA project I did in a former job. The goal was to get a statistically sound estimate of a contractors schedule flow that was at high risk of falling behind. It uses standard SRA Monte Carlo methods like the tri-point estimate, and a rectangular beta distribution to determine how likely a schedule is to slip.
 
 I wrote several versions over a few months, and adding more complicated sample schedules that include forks, numerous paths, and adding deeper critical path analysis and overall schedule task importance to a schedule.
