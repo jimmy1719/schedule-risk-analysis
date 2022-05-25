@@ -7,6 +7,7 @@ I wrote several versions over a few months, and adding more complicated sample s
 
 SRA.py is the main code, which handles file i/o and the math
 Linker.py is the code I wrote to determine all possible unique paths through a schedule. This was difficult for me since I only had base python and no access to the open internet. It took some wacky if statements and while loops that seemed to stretch my working memory pretty hard
+
 Mock schedule data is stored in the attached Excel sheet, with real life data following the same spreadsheet format
 
 This code gave me an accurate estimate of project completion date that I felt I was able to throw my weight behind!
